@@ -7,7 +7,7 @@ This kind of the Prediction will help companies estimate price of Mobile to give
 Also it will be usefull for cusumers to verify that they are paying best price for a mobile.
 
 Here we using :
-Logistic Regression
-Support Vector Machine
-Decision Tree
-Gradient Boosting Classifier
+Logistic Regression,
+Support Vector Machine,
+Decision Tree,
+Gradient Boosting Classifier.
